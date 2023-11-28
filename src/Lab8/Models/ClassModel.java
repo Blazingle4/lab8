@@ -1,3 +1,7 @@
+/**Name: Cayden Akers
+ * Date: November 27th, 2023
+ * Sect: 001
+ */
 package Lab8.Models;
 
 
